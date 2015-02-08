@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014/11/01 18:19:01.000.671,=C:\Users\Adr\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2014/11/21 02:22:21.000.655,=C:\Users\Adr\Documents\RAD Studio\Projects\File2.cpp</Transaction>
+    <Transaction>2014/11/21 02:22:49.000.400,C:\Users\Adr\Documents\RAD Studio\Projects\Project2.cbproj=C:\Users\Adr\Documents\RAD Studio\Projects\Muti_PoeHack.cbproj</Transaction>
+    <Transaction>2014/11/21 02:23:24.000.684,C:\Users\Adr\Documents\RAD Studio\Projects\File2.cpp=C:\Users\Adr\Desktop\PoE_Hack\POE_多開\File2.cpp</Transaction>
+    <Transaction>2014/11/21 02:23:27.000.116,C:\Users\Adr\Documents\RAD Studio\Projects\Muti_PoeHack.cbproj=C:\Users\Adr\Desktop\PoE_Hack\POE_多開\Muti_PoeHack.cbproj</Transaction>
+    <Transaction>2014/11/21 02:23:56.000.654,=C:\Users\Adr\Desktop\PoE_Hack\POE_多開\MyFuction.h</Transaction>
+    <Transaction>2014/11/21 02:24:02.000.567,=C:\Users\Adr\Desktop\PoE_Hack\POE_多開\HookCreateProcess.h</Transaction>
+    <Transaction>2014/11/21 02:24:14.000.252,C:\Users\Adr\Desktop\PoE_Hack\POE_多開\File2.cpp=C:\Users\Adr\Desktop\PoE_Hack\POE_多開\Main.cpp</Transaction>
+    <Transaction>2014/11/21 02:26:49.000.747,=C:\Users\Adr\Desktop\PoE_Hack\POE_多開\File1.h</Transaction>
+    <Transaction>2014/11/21 02:27:13.000.038,C:\Users\Adr\Desktop\PoE_Hack\POE_多開\File1.h=C:\Users\Adr\Desktop\PoE_Hack\POE_多開\Data.h</Transaction>
+  </Transactions>
+</BorlandProject>
